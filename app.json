@@ -4,7 +4,7 @@
   "logo": "https://static10.tgstat.ru/channels/_0/96/96faf804011bb615badb93e6921c65e0.jpg",
   "keywords": ["telegram", "best", "open", "source", "file", "formatter", "chat", "uploader"],
   "website": "https://github.com/m4mallu/renameprobot",
-  "repository": "https://github.com/m4mallu/renameprobot",
+  "repository": "https://github.com/malik7983/renameprobot",
   "env": {
         "APP_ID": {"description": "Get this value from https://my.telegram.org", "required": true},
         "API_HASH": {"description": "Get this value from https://my.telegram.org" , "required": true},
